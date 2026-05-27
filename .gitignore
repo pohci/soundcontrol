@@ -1,0 +1,35 @@
+# ide
+.idea/
+.vscode/
+.cursor/
+*.iml
+*.ipr
+*.iws
+out/
+
+# eclipse
+bin/
+.settings/
+.metadata/
+.classpath
+.project/
+*.launch
+
+# gradle
+.gradle/
+build/
+buildSrc/build/
+
+# minecraft dev runs
+run/
+runs/
+fabric/runs/
+neoforge/runs/
+
+# os
+.DS_Store
+Thumbs.db
+
+# logs and temp
+*.log
+*.tmp

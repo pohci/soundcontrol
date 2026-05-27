@@ -1,0 +1,36 @@
+{
+
+  "required": true,
+
+  "minVersion": "0.8",
+
+  "package": "com.baz.soundcontrol.mixin",
+
+  "compatibilityLevel": "JAVA_21",
+
+  "mixins": [],
+
+  "client": [
+
+    "ClothConfigMixin",
+
+    "OptionsSubScreenAccessor",
+
+    "AbstractSoundMixin",
+    "SoundMixin",
+
+    "SoundOptionsMixin",
+
+    "SubtitleMixin"
+
+  ],
+
+  "injectors": {
+
+    "defaultRequire": 1
+
+  }
+
+}
+
+

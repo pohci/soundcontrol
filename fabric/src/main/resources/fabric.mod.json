@@ -1,0 +1,41 @@
+{
+    "schemaVersion": 1,
+    "id": "${mod_id}",
+    "version": "${version}",
+    "name": "${mod_name}",
+    "description": "${description}",
+    "authors": [
+        "${mod_author}"
+    ],
+    "contact": {
+        "homepage": "https://modrinth.com/mod/soundcontrol",
+        "sources": "https://github.com/pohci/soundcontrol",
+        "issues": "https://github.com/pohci/soundcontrol/issues"
+    },
+    "license": "${license}",
+    "icon": "${mod_id}.png",
+    "environment": "client",
+    "entrypoints": {
+        "client": [
+            "com.baz.soundcontrol.Client"
+        ],
+        "modmenu": [
+            "com.baz.soundcontrol.menu.ModMenu"
+        ]
+    },
+    "mixins": [
+        "${mod_id}.fabric.mixins.json"
+    ],
+    "depends": {
+        "fabricloader": ">=${fabric_loader_version}",
+        "fabric-api": "*",
+        "cloth-config": ">=26.1.154",
+        "minecraft": "~${minecraft_version_label}",
+        "java": ">=${java_version}"
+    },
+    "suggests": {
+        "modmenu": "*",
+        "better-modlist": "*"
+    }
+}
+  
