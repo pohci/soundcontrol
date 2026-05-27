@@ -8,7 +8,7 @@ SoundControl is a client-side mod that lets you search, mute, boost, and manage 
 
 ![Sound Control main screen](docs/images/mainpage.png)
 
-| Settings | Cloth Config |
+| Setting 1 | Setting 2 | 
 | --- | --- |
 | ![Sound Control settings](docs/images/settings1.png) | ![Cloth Config settings](docs/images/settings2.png) |
 
@@ -17,8 +17,6 @@ SoundControl is a client-side mod that lets you search, mute, boost, and manage 
 | Minecraft | Fabric | NeoForge | Forge |
 | --- | :---: | :---: | :---: |
 | **26.1** | ✓ | ✓ | — |
-| **26.1.1** | ✓ | ✓ | — |
-| **26.1.2** | ✓ | ✓ | — |
 
 Larger version support soon to come...
 
