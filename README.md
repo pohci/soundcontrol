@@ -4,14 +4,6 @@ Please note this mod is in active development and is nowhere near finished.
 
 SoundControl is a client-side mod that lets you search, mute, boost, and manage individual Minecraft sounds from one place.
 
-## Screenshots
-
-![Sound Control main screen](docs/images/mainpage.png)
-
-| Setting 1 | Setting 2 | 
-| --- | --- |
-| ![Sound Control settings](docs/images/settings1.png) | ![Cloth Config settings](docs/images/settings2.png) |
-
 ## Supported versions
 
 | Minecraft | Fabric | NeoForge | Forge |
@@ -79,3 +71,12 @@ Release jars are copied to `build/release/`.
 - **GitHub:** [Pohci](https://github.com/pohci/soundcontrol)
 - **Modrinth:** [Pohci](https://modrinth.com/mod/soundcontrol)
 - **CurseForge:** [Pohci](https://www.curseforge.com/minecraft/mc-mods/sound-control-manager)
+
+## Screenshots
+
+![Sound Control main screen](docs/images/mainpage.png)
+
+| Setting 1 | Setting 2 | 
+| --- | --- |
+| ![Sound Control settings](docs/images/settings1.png) | ![Cloth Config settings](docs/images/settings2.png) |
+
