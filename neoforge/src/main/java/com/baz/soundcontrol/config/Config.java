@@ -1,5 +1,6 @@
 package com.baz.soundcontrol.config;
 
+import com.baz.soundcontrol.sound.Playback;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.JsonElement;
@@ -105,11 +106,13 @@ public final class Config {
         }
 
         save();
+        Playback.stopPlaying(soundId);
     }
 
     public static void resetVolume(String soundId) {
         current().sounds.remove(soundId);
         save();
+        Playback.stopPlaying(soundId);
     }
 
     public static boolean isModified(String soundId) {

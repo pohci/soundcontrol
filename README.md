@@ -1,8 +1,24 @@
 # Sound Control
+<div align="center">
+<a href="https://github.com/pohci/soundcontrol"><img alt="github" height="65" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg"></a>
+<a href="https://modrinth.com/mod/soundcontrol"><img alt="modrinth" height="65" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg"></a>
+<a href="https://www.curseforge.com/minecraft/mc-mods/soundcontrolmanager"><img alt="curseforge" height="65" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg"></a>
 
 Please note this mod is in active development and is nowhere near finished.
 
 SoundControl is a client-side mod that lets you search, mute, boost, and manage individual Minecraft sounds from one place.
+
+ <span style="color:#aaaaaa">Requires:</span>
+  [Cloth Config](https://modrinth.com/mod/cloth-config)
+</div>
+
+## Screenshots
+
+![Sound Control main screen](docs/images/mainpage.png)
+
+| Settings | Cloth Config |
+| --- | --- |
+| ![Sound Control settings](docs/images/settings1.png) | ![Cloth Config settings](docs/images/settings2.png) |
 
 ## Supported versions
 
@@ -66,17 +82,8 @@ Release jars are copied to `build/release/`.
 
 - **License:** [MIT](LICENSE)
 
-### Project Links
+### My Links
 
-- **GitHub:** [Pohci](https://github.com/pohci/soundcontrol)
-- **Modrinth:** [Pohci](https://modrinth.com/mod/soundcontrol)
-- **CurseForge:** [Pohci](https://www.curseforge.com/minecraft/mc-mods/sound-control-manager)
-
-## Screenshots
-
-![Sound Control main screen](docs/images/mainpage.png)
-
-| Setting 1 | Setting 2 | 
-| --- | --- |
-| ![Sound Control settings](docs/images/settings1.png) | ![Cloth Config settings](docs/images/settings2.png) |
-
+- **GitHub:** [Pohci](https://github.com/pohci)
+- **Modrinth:** [Pohci](https://modrinth.com/user/pohci)
+- **CurseForge:** [Pohci](https://www.curseforge.com/members/pohci)

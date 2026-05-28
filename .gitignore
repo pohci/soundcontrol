@@ -33,3 +33,6 @@ Thumbs.db
 # logs and temp
 *.log
 *.tmp
+
+# mc
+net/
